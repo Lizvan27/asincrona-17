@@ -1,0 +1,57 @@
+[{
+    "id": 1,
+    "descripcion": "Galleta",
+    "precio_compra": 10.0,
+    "precio_venta": 15.00,
+    "ganancia": 5,
+    "existencia": 100
+  },
+  {
+    "id": 2,
+    "descripcion": "Gaseosa",
+    "precio_compra": 10.0,
+    "precio_venta": 15.00,
+    "ganancia": 5,
+    "existencia": 100
+  },
+  {
+    "id": 3,
+    "descripcion": "Chocolate",
+    "precio_compra": 10.0,
+    "precio_venta": 15.00,
+    "ganancia": 5,
+    "existencia": 100
+  },
+  {
+    "id": 4,
+    "descripcion": "Atun",
+    "precio_compra": 10.0,
+    "precio_venta": 15.00,
+    "ganancia": 5,
+    "existencia": 100
+  },
+  {
+    "id": 5,
+    "descripcion": "Chammpo",
+    "precio_compra": 10.0,
+    "precio_venta": 15.00,
+    "ganancia": 5,
+    "existencia": 100
+  },
+  {
+    "id": 6,
+    "descripcion": "Arroz",
+    "precio_compra": 10.0,
+    "precio_venta": 15.00,
+    "ganancia": 5,
+    "existencia": 100
+  },
+  {
+    "id": 7,
+    "descripcion": "Azucar",
+    "precio_compra": 10.0,
+    "precio_venta": 15.00,
+    "ganancia": 5,
+    "existencia": 100
+  }
+]
