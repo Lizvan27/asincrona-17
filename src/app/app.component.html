@@ -11,7 +11,6 @@
           <th>Precio de Venta</th>
           <th>Ganacia</th>
           <th>Detalle</th>
-
         </tr>
     </thead>
     <tbody>
@@ -21,6 +20,13 @@
         <td>{{ producto.precio_compra }}</td>
         <td>{{ producto.precio_venta }}</td>
         <td>{{ producto.ganancia }}</td>
+        <td>
+          <a>  
+            <a class="waves-effect waves-light btn-small" (click)="mostrar()" 
+            style="height: 25px !important;width: 100px;margin-bottom: 9px !important;margin-right: 2px; font-size: 11px;">Ver mas</a>
+         </a>
+        </td>
+
 
       </tr>
     </tbody>
